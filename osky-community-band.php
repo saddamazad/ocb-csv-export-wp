@@ -4,8 +4,8 @@
  * Plugin URI: http://oskyblue.com
  * Version: 1.0
  * Description: Osky Community Band
- * Author: Osky Blue
- * Author URI: http://www.oskyblue.com
+ * Author: Saddam Hossain Azad
+ * Author URI: https://github.com/saddamazad
 **/
 
 // Define contants
